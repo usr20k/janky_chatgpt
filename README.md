@@ -1,5 +1,5 @@
-# simple-davinci-chatbot
-A simple davinci-based chatbot using the OpenAI API. Usage requires you to have an OpenAI API key.
+# janky-chatgpt
+A simple gpt3.5-turbo based chatbot using the OpenAI API with context held for 2 exhanges. Usage requires you to have an OpenAI API key.
 
 # Installation
 Clone the repo locally and navigate to the root directory. Run `npm install` to install all package dependencies.
